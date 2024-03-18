@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311193181510",
+    "project_id": "slpd-5d35b",
+    "storage_bucket": "slpd-5d35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311193181510:android:6e63bbc2e9aa0fe07c1947",
+        "android_client_info": {
+          "package_name": "com.dmhashanmd.slpd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC3J98HHnMngftTsjOCITb94SOuu9f8kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
